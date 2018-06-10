@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22f8ae4b-233c-4f43-8a64-0ca377d6feec" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DwarfAttackingZombies/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DwarfAttackingZombies/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DwarfAttackingZombies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DwarfAttackingZombies/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LoadScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LoadScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DwarfAttackingZombies.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/DwarfAttackingZombies.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0b01aefd7987a7541bebb995f0f23e6d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-30f872895658c6a45bce5a103cfda801" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-32d7bfda23314b34d83a5a8bbabfc3bd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3a8c6d59af6efb040a2d01ef5cdf28bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-41ab7019fd47db64ea5a1253cda9c947" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-51d7eff3c0d450f4993d6802681ad3f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-592f39069671f59449096ee05e4f32fd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6aa41f9302e8969409550601060cf203" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7a8f26d48027cca459c10ef82180bcef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9c05106db7ea0ea4fb5feece964d276d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ad5c7eaecee27f5489d118ee5b82f2a4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-adaeb6bddfc3c8b41aca60df8262ad1a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b4401de0a850f3341987f45c89689738" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bd489300a72f55842b87dfe269e912b1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c906c911aa4dcfc479010dc8ae2ebfdd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e27c973ec3df6bd4884af4808a6cf698" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
-    </list>
+    <list default="true" id="22f8ae4b-233c-4f43-8a64-0ca377d6feec" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LightningBolt.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LightningBolt.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/VFX/LightningBolt.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
@@ -100,22 +69,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainMenu.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/MainMenu.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-              <folding>
-                <marker date="1528639526488" expanded="true" signature="6:78" ph="..." />
-                <marker date="1528639526488" expanded="true" signature="118:262" ph="{...}" />
-                <marker date="1528639526488" expanded="true" signature="144:153" ph="{...}" />
-                <marker date="1528639526488" expanded="true" signature="177:186" ph="{...}" />
-                <marker date="1528639526488" expanded="true" signature="211:260" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -124,7 +77,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VFX/LightningBolt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/LevelLoader.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -141,7 +93,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="213" />
     <option name="y" value="211" />
     <option name="width" value="1200" />
@@ -201,12 +153,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528622717684</updated>
       <workItem from="1528622722879" duration="2225000" />
-      <workItem from="1528637481304" duration="1587000" />
+      <workItem from="1528637481304" duration="1643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3812000" />
+    <option name="totallyTimeSpent" value="3868000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -218,8 +170,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="213" y="211" width="1200" height="646" extended-state="1" />
-    <editor active="true" />
+    <frame x="213" y="211" width="1200" height="646" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -318,6 +269,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MainMenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/VFX/LightningBolt.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -334,20 +292,6 @@
             <marker date="1528012304253" expanded="true" signature="2621:3763" ph="{...}" />
             <marker date="1528012304253" expanded="true" signature="3119:3760" ph="{...}" />
             <marker date="1528012304253" expanded="true" signature="3203:3436" ph="/* ...calculate a new point based on our starting position, the vector of the bolt, and the position of the key ( ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MainMenu.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <marker date="1528639526488" expanded="true" signature="6:78" ph="..." />
-            <marker date="1528639526488" expanded="true" signature="118:262" ph="{...}" />
-            <marker date="1528639526488" expanded="true" signature="144:153" ph="{...}" />
-            <marker date="1528639526488" expanded="true" signature="177:186" ph="{...}" />
-            <marker date="1528639526488" expanded="true" signature="211:260" ph="{...}" />
           </folding>
         </state>
       </provider>
