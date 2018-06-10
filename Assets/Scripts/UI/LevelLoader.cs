@@ -11,6 +11,8 @@ public class LevelLoader : MonoBehaviour
 	private GameObject _loadingScreenPanel;
 	[SerializeField]
 	private Slider _slider;
+	[SerializeField]
+	private Text _progressText;
 	
 	
 
@@ -27,8 +29,11 @@ public class LevelLoader : MonoBehaviour
 		while (!operation.isDone)
 		{
 			float progress = Mathf.Clamp01(operation.progress / .9f);
+			
 			_slider.value = progress;
-			Debug.Log(progress);
+			_progressText.text = progress * 100f + "%";
+			
+			
 			yield return null;
 		}
 
