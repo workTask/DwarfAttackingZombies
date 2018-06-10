@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_GnomeGameTest.370252516.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Documents\GnomeGameTest" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Fonts" t="Include">
+          <e p="LICENSE.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Enemy" t="Include">
+            <e p="EnemyAttack.cs" t="Include" />
+            <e p="EnemyHealth.cs" t="Include" />
+            <e p="EnemyMovement.cs" t="Include" />
+            <e p="EnemySpawner.cs" t="Include" />
+          </e>
+          <e p="GameManager.cs" t="Include" />
+          <e p="Helpers" t="Include">
+            <e p="AVPlayer.cs" t="Include" />
+            <e p="CameraFollow.cs" t="Include" />
+            <e p="MouseLocation.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerAttack.cs" t="Include" />
+            <e p="PlayerHealth.cs" t="Include" />
+            <e p="PlayerInput.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="CountDown.cs" t="Include" />
+            <e p="FlashFade.cs" t="Include" />
+            <e p="LevelLoader.cs" t="Include" />
+          </e>
+          <e p="VFX" t="Include">
+            <e p="LightningAttack.cs" t="Include" />
+            <e p="LightningBolt.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="GnomeGameTest.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
