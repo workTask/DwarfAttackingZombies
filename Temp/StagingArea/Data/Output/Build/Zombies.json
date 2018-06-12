@@ -1,0 +1,13 @@
+{
+"companyName": "frantsuhvika",
+"productName": "Zombie",
+"dataUrl": "Zombies.data.unityweb",
+"asmCodeUrl": "Zombies.asm.code.unityweb",
+"asmMemoryUrl": "Zombies.asm.memory.unityweb",
+"asmFrameworkUrl": "Zombies.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
