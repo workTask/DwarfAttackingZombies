@@ -16,4 +16,10 @@ public class Buttons : MonoBehaviour
     {
         GetComponent<SpriteRenderer>().sprite = layer_blue;
     }
+
+    public void onPause()
+    {
+        
+        Debug.Log("Pause");
+    }
 }
