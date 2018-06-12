@@ -5,11 +5,11 @@ using UnityEngine;
 public class Buttons : MonoBehaviour
 {
     [SerializeField] 
-    private Sprite layer_blue, layer_silver;
+    private Sprite layer_blue, layer_orange;
 
     public void OnMouseDown()
     {
-        GetComponent<SpriteRenderer>().sprite = layer_silver;
+        GetComponent<SpriteRenderer>().sprite = layer_orange;
     }
 
     private void OnMouseUp()
